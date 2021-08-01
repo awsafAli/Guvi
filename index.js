@@ -1,4 +1,4 @@
-Task 2Task 3
+Task 1
 var employees = [
     { name: "Adhi", gender: "male" },
    { name: "Ahamed", gender: "male" },
@@ -13,7 +13,7 @@ var employees = [
  
  }
 
-Task 2Task 3
+Task 2
  var employees = [
     { name: "Adhi", gender: "male" },
    { name: "Ahamed", gender: "male" },
